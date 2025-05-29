@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Tung Shido!
+🚀 Software Architect
+Passionate about building scalable software solutions. My work blends backend development, system design, and cloud infrastructure.
 
-<!--
-**tungshido/tungshido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack:
+Daily: Go, Java, Python, TypeScript, Angular
 
-Here are some ideas to get you started:
+Experience: Kubernetes, Linux, GitOps, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud: Azure, AWS
+
+✨ Fun Fact:
+I can often be found untangling complex distributed systems, sometimes fueled by an unhealthy amount of coffee! ☕
+
+🌱 Currently Exploring:
+Rust, embeded programming
