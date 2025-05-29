@@ -5,7 +5,7 @@ Passionate about building scalable software solutions. My work blends backend de
 🛠️ Tech Stack:
 Daily: Go, Java, Python, TypeScript, Angular
 
-Experience: Kubernetes, Linux, GitOps, CI/CD
+Experience: Kubernetes, GitOps, CI/CD
 
 Cloud: Azure, AWS
 
@@ -13,4 +13,5 @@ Cloud: Azure, AWS
 I can often be found untangling complex distributed systems, sometimes fueled by an unhealthy amount of coffee! ☕
 
 🌱 Currently Exploring:
-Rust, embeded programming
+Rust
+Homelab
