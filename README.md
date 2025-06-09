@@ -13,5 +13,5 @@ Cloud: Azure, AWS
 I can often be found untangling complex distributed systems, sometimes fueled by an unhealthy amount of coffee! ☕
 
 🌱 Currently Exploring:
-Rust
+Zig
 Homelab
