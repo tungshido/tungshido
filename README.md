@@ -6,7 +6,7 @@
 
 A passionate Software Architect with a knack for designing and building scalable, high-performance software solutions. I thrive in the intersection of backend development, distributed systems, and cloud-native infrastructure.
 
-* 🔭 I’m currently working on a distributed microservices application in Go.
+* 🔭 I’m currently working on a distributed microservices application in Go, java.
 * 🌱 I’m currently learning Rust for my homelab experiments.
 * 💬 Ask me about: System Design, Kubernetes, Go, and building scalable applications.
 * ☕ Fun Fact: I can often be found untangling complex distributed systems, sometimes fueled by an unhealthy amount of coffee!
@@ -27,23 +27,3 @@ A passionate Software Architect with a knack for designing and building scalable
 </p>
 
 ---
-
-## 📊 My GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&rank_icon=github" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📬 Get in Touch
-
-<p align="center">
-<a href="https://linkedin.com/in/YourUsername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YourUsername" height="30" width="40" /></a>
-<a href="https://twitter.com/YourUsername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourUsername" height="30" width="40" /></a>
-</p>
